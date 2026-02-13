@@ -6,7 +6,7 @@ Personal curated collection of high-quality wallpapers for desktop and mobile de
 ```
 wallpapers/
 ├── 🎮 Shiny-colors-wallpapers/    # THE iDOLM@STER Shiny Colors
-├── ⚔️  Solo-Leveling/              # Solo Leveling anime/manhwa
+├── ⚔️ Solo-Leveling/              # Solo Leveling anime/manhwa
 ├── 🎌 anime/                       # General anime wallpapers
 ├── 🎯 arknights/                   # Arknights game art
 ├── 🌆 city/                        # Urban & cityscape
@@ -18,7 +18,7 @@ wallpapers/
 ├── 🌄 paisajes/                    # Landscapes & nature
 ├── 🎨 pixelart/                    # Pixel art wallpapers
 ├── 🪟 windows/                     # Windows-themed
-├── ☄️  your-name/                  # Your Name (Kimi no Na wa) movie
+├── ☄️ your-name/                  # Your Name (Kimi no Na wa) movie
 ├── 🎬 animatedWallpapers/          # Animated wallpapers (MP4)
 └── 📦 varios/                      # Miscellaneous
 ```
